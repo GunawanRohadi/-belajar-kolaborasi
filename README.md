@@ -1,6 +1,6 @@
 # -belajar-kolaborasi
 
-*langkah langkahnya sebagai berikut :
+# langkah langkahnya sebagai berikut :
 
 1. menambhkan teman/colabolator 
 
